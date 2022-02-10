@@ -10,6 +10,9 @@ Windows 11, Unity 2020.3.18f1, Visual Studio Version 2019 Community
 ### Zielplattform: 
 WebGL Referenzauflösung (960x600) https://3ahmns2122mtin.github.io/10CSchrofner_UE4-Trashgame/
 ### Visuelle Einblicke in das Projekt: 
+![Screenshot (72)](https://user-images.githubusercontent.com/91070191/153387397-5b8c6144-be1e-4d30-a97f-420e96d75160.png)
+![Screenshot (73)](https://user-images.githubusercontent.com/91070191/153387387-6ee8262a-aec6-494e-9c64-5c20fc9d0052.png)
+
 
 ### Notwendiges für die Ausführung: 
 Unity 2020.1.18f1
