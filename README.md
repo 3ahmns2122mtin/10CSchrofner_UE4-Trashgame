@@ -8,8 +8,7 @@ In diesem 2D Game kann man mithilfe eines Besens Müll von der Staße kehren
 Windows 11, Unity 2020.3.18f1, Visual Studio Version 2019 Community
 
 ### Zielplattform: 
-WebGL Referenzauflösung (960x600)  https://3ahmns2122mtin.github.io/10CSchrofner-UE03-KinderAddiererConsole/
-
+WebGL Referenzauflösung (960x600) https://3ahmns2122mtin.github.io/10CSchrofner_UE4-Trashgame/
 ### Visuelle Einblicke in das Projekt: 
 
 ### Notwendiges für die Ausführung: 
