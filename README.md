@@ -1,6 +1,8 @@
 # 10CSchrofner_UE4-Trashgame
 Fourth Project "Trashgame"
 
+Ich habe alleine an dem Spiel gearbeitet
+
 ### Projektbeschreibung
 In diesem 2D Game kann man mithilfe eines Besens Müll von der Staße kehren
 
